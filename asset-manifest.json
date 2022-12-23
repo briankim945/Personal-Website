@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Personal-Website/static/css/main.009b443b.css",
-    "main.js": "/Personal-Website/static/js/main.f8b2d672.js",
-    "static/js/787.3ba5e41c.chunk.js": "/Personal-Website/static/js/787.3ba5e41c.chunk.js",
-    "static/media/Brian_Pic.png": "/Personal-Website/static/media/Brian_Pic.83495921f07b9f722322.png",
-    "static/media/monster.jpeg": "/Personal-Website/static/media/monster.47af026470f1e5f0f411.jpeg",
-    "static/media/Brown.jpeg": "/Personal-Website/static/media/Brown.d89914d6de6ea41aeb21.jpeg",
-    "static/media/boykin.jpg": "/Personal-Website/static/media/boykin.532fc9b6eb2affb4ce59.jpg",
-    "static/media/thayer_mahan.png": "/Personal-Website/static/media/thayer_mahan.8772c43281f3b88b82df.png",
-    "static/media/tagg.png": "/Personal-Website/static/media/tagg.3029506c6d39b5c04ce1.png",
-    "static/media/logo.svg": "/Personal-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Personal-Website/index.html",
-    "main.009b443b.css.map": "/Personal-Website/static/css/main.009b443b.css.map",
-    "main.f8b2d672.js.map": "/Personal-Website/static/js/main.f8b2d672.js.map",
-    "787.3ba5e41c.chunk.js.map": "/Personal-Website/static/js/787.3ba5e41c.chunk.js.map"
+    "main.css": "/personal/static/css/main.009b443b.css",
+    "main.js": "/personal/static/js/main.cfa53455.js",
+    "static/js/787.3ba5e41c.chunk.js": "/personal/static/js/787.3ba5e41c.chunk.js",
+    "static/media/Brian_Pic.png": "/personal/static/media/Brian_Pic.83495921f07b9f722322.png",
+    "static/media/monster.jpeg": "/personal/static/media/monster.47af026470f1e5f0f411.jpeg",
+    "static/media/Brown.jpeg": "/personal/static/media/Brown.d89914d6de6ea41aeb21.jpeg",
+    "static/media/boykin.jpg": "/personal/static/media/boykin.532fc9b6eb2affb4ce59.jpg",
+    "static/media/thayer_mahan.png": "/personal/static/media/thayer_mahan.8772c43281f3b88b82df.png",
+    "static/media/tagg.png": "/personal/static/media/tagg.3029506c6d39b5c04ce1.png",
+    "static/media/logo.svg": "/personal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/personal/index.html",
+    "main.009b443b.css.map": "/personal/static/css/main.009b443b.css.map",
+    "main.cfa53455.js.map": "/personal/static/js/main.cfa53455.js.map",
+    "787.3ba5e41c.chunk.js.map": "/personal/static/js/787.3ba5e41c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.009b443b.css",
-    "static/js/main.f8b2d672.js"
+    "static/js/main.cfa53455.js"
   ]
 }
