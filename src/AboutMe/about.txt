@@ -1,0 +1,7 @@
+I am currently a senior at Brown University, double-concentrating in Computer Science as a bachelor of science and Philosophy as a bachelor of arts.
+
+As a computer science student, I have focused on studies in artificial intelligence/machine learning and cybersecurity. During my summers, I have interned as a web developer, a software developer, and a machine learning engineer. In the process, I have come to appreciate the unique capacity that machine learning has to simplify human work and free people from repetitive, time-consuming tasks. This is a genuinely world-changing technology, and I hope to be part of its development.
+
+At the same time, my history in both computer science and philosophy have given me a unique outlook on how technology interacts with the human world. It's not enough that technology exists; it should be direct towards human ends. My hope is that I can bring a human-centered perspective with me to my job as well as a technology-focused one.
+
+Ultimately, I'm a code monkey with an interest in how humans think. I plan to build technologies that help other people, and I hope to have a good time while doing it!

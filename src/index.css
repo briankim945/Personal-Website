@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+@media only screen and (max-width: 600px),
+screen and (orientation: portrait),
+screen and (-webkit-min-device-pixel-ratio: 3) {
+  #root {
+    height: auto;
+    width: auto;
+  }
+  
+  html {
+    height: auto;
+    width: auto;
+  }
+}

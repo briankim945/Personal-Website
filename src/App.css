@@ -37,26 +37,52 @@
   }
 }
 
-ul.no-bullets {
-  list-style-type: none; /* Remove bullets */
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333333;
+.root {
+  height: 100%;
+  width: 100%;
 }
 
-li {
-  float: left;
+.flex-root {
+  display: flex;
+  flex-direction: row;
 }
 
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 16px;
-  text-decoration: none;
+.overflow-control {
+  overflow: scroll;
 }
 
-li a:hover {
-  background-color: #111111;
+.route-container {
+  height: 100%;
+  max-height: 100vh;
+  width: 90%;
+  overflow: scroll;
+}
+
+@media only screen and (max-width: 600px),
+screen and (orientation: portrait),
+screen and (-webkit-min-device-pixel-ratio: 3) {
+  .root {
+    height: auto;
+    /* height: 100vh; */
+    max-height: auto;
+    /* max-height: 100vh; */
+    width: auto;
+  }
+
+  .flex-root {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    /* height: 100vh; */
+    max-height: auto;
+  }
+
+  .route-container {
+    height: auto;
+    max-height: auto;
+    /* width: 90%;
+    overflow: scroll; */
+    width: 100%;
+    overflow: auto;
+  }
 }

@@ -1,0 +1,41 @@
+.parent {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: aqua; */
+    background-color: gainsboro;
+}
+
+.child_title {
+    font-size: 64px;
+    padding: 10%;
+    color: white;
+    width: 80%;
+    height: 15%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+.child_body {
+    /* width: 100%; */
+    display: flex;
+    /* margin: 10%; */
+    font-size: 24px;
+    padding: 7.5%;
+    flex-direction: column;
+    align-items: center;
+    background-color: gainsboro;
+}
+
+.child_body text {
+    margin: 2.5%;
+}
+
+.childImage {
+    width: 100%;
+}
