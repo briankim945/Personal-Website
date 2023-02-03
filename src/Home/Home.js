@@ -9,10 +9,11 @@ function Home() {
         <text className="text title">Brian Kim</text>
         <text className="text">Software Developer</text>
         <text className="text">Machine Learning Engineer</text>
+        <text className="text"><a href="https://www.linkedin.com/in/brian-kim-37112819a/">LinkedIn</a></text>
       </div>
       <div id="left" className="userImageContainer">
-        <img src={image} alt="image" className="userImage" /
-        ></div>
+        <img src={image} alt="image" className="userImage" />
+      </div>
 
     </div>
   );
