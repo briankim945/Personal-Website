@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Personal-Website/static/css/main.a751c05d.css",
-    "main.js": "/Personal-Website/static/js/main.3006f45c.js",
+    "main.css": "/Personal-Website/static/css/main.8cb45886.css",
+    "main.js": "/Personal-Website/static/js/main.db26e87d.js",
     "static/js/787.3ba5e41c.chunk.js": "/Personal-Website/static/js/787.3ba5e41c.chunk.js",
     "static/media/Brian_Pic.png": "/Personal-Website/static/media/Brian_Pic.83495921f07b9f722322.png",
     "static/media/monster.jpeg": "/Personal-Website/static/media/monster.47af026470f1e5f0f411.jpeg",
@@ -9,14 +9,13 @@
     "static/media/boykin.jpg": "/Personal-Website/static/media/boykin.532fc9b6eb2affb4ce59.jpg",
     "static/media/thayer_mahan.png": "/Personal-Website/static/media/thayer_mahan.8772c43281f3b88b82df.png",
     "static/media/tagg.png": "/Personal-Website/static/media/tagg.3029506c6d39b5c04ce1.png",
-    "static/media/logo.svg": "/Personal-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Personal-Website/index.html",
-    "main.a751c05d.css.map": "/Personal-Website/static/css/main.a751c05d.css.map",
-    "main.3006f45c.js.map": "/Personal-Website/static/js/main.3006f45c.js.map",
+    "main.8cb45886.css.map": "/Personal-Website/static/css/main.8cb45886.css.map",
+    "main.db26e87d.js.map": "/Personal-Website/static/js/main.db26e87d.js.map",
     "787.3ba5e41c.chunk.js.map": "/Personal-Website/static/js/787.3ba5e41c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a751c05d.css",
-    "static/js/main.3006f45c.js"
+    "static/css/main.8cb45886.css",
+    "static/js/main.db26e87d.js"
   ]
 }
