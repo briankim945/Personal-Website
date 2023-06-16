@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Personal-Website/static/css/main.731cc6e4.css",
-    "main.js": "/Personal-Website/static/js/main.aa39ffd0.js",
+    "main.css": "/Personal-Website/static/css/main.156cf2d3.css",
+    "main.js": "/Personal-Website/static/js/main.7950515a.js",
     "static/js/787.c928e4c8.chunk.js": "/Personal-Website/static/js/787.c928e4c8.chunk.js",
     "static/media/with-background-removal.gif": "/Personal-Website/static/media/with-background-removal.e68f3c75993911951e13.gif",
     "static/media/with-improved-discriminator.gif": "/Personal-Website/static/media/with-improved-discriminator.1e62076ded45db5b8c71.gif",
@@ -9,16 +9,19 @@
     "static/media/Brian_Pic.png": "/Personal-Website/static/media/Brian_Pic.83495921f07b9f722322.png",
     "static/media/monster.jpeg": "/Personal-Website/static/media/monster.47af026470f1e5f0f411.jpeg",
     "static/media/Brown.jpeg": "/Personal-Website/static/media/Brown.d89914d6de6ea41aeb21.jpeg",
+    "static/media/book-happy.png": "/Personal-Website/static/media/book-happy.e646b33462a2b0d88f04.png",
+    "static/media/book-fear.png": "/Personal-Website/static/media/book-fear.4485a7f761c970c6ac44.png",
+    "static/media/book-sad.png": "/Personal-Website/static/media/book-sad.52aa9e29fcb2fd37dddc.png",
     "static/media/boykin.jpg": "/Personal-Website/static/media/boykin.532fc9b6eb2affb4ce59.jpg",
     "static/media/thayer_mahan.png": "/Personal-Website/static/media/thayer_mahan.8772c43281f3b88b82df.png",
     "static/media/tagg.png": "/Personal-Website/static/media/tagg.3029506c6d39b5c04ce1.png",
     "index.html": "/Personal-Website/index.html",
-    "main.731cc6e4.css.map": "/Personal-Website/static/css/main.731cc6e4.css.map",
-    "main.aa39ffd0.js.map": "/Personal-Website/static/js/main.aa39ffd0.js.map",
+    "main.156cf2d3.css.map": "/Personal-Website/static/css/main.156cf2d3.css.map",
+    "main.7950515a.js.map": "/Personal-Website/static/js/main.7950515a.js.map",
     "787.c928e4c8.chunk.js.map": "/Personal-Website/static/js/787.c928e4c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.731cc6e4.css",
-    "static/js/main.aa39ffd0.js"
+    "static/css/main.156cf2d3.css",
+    "static/js/main.7950515a.js"
   ]
 }
